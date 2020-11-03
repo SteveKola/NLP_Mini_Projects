@@ -1,5 +1,5 @@
 # NLP_Mini_Projects
-The various NLP projects I worked on during the first half of my DevCareers' stints.
+The various NLP projects I worked on during the first half of my DevCareers' internship.
 
 Resources:
 
